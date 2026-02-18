@@ -1,12 +1,6 @@
-<br>
-
-<video src="https://github.com/user-attachments/assets/1de6853c-14fc-4839-bbc3-3db599299740" width="80%" autoplay muted playsinline loop controls></video>
-
-
-
-
-
-<br>
+<p align="center">
+  <img src="assets/demo.gif" height="320">
+</p>
 
 # MetaDrive Racing Tournament
 
@@ -21,7 +15,9 @@ that performs well in the **MetaDrive Multi-agent Racing Environment**. After tr
 
 You are free to choose **any RL algorithm or codebase** to train your agent.
 
-<img src="assets/leaderboard.png" width="700" />
+<p align="center">
+  <img src="assets/leaderboard.png" width="700">
+</p>
 
 ## Changelog
 
