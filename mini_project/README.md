@@ -1,6 +1,6 @@
 <br>
 
-<video width="80%" autoplay muted playsinline loop controls>   <source src="assets/demo.mp4" type="video/mp4"> </video>
+<video src="assets/demo.mp4" width="80%" autoplay muted playsinline loop controls></video>
 
 <br>
 
@@ -88,9 +88,7 @@ python eval_local.py --agent-dirs agents/agent_YOUR-UID agents/agent_baseline --
 
 Follow the tutorial video to submit your agent and race with others at http://bolei-gpu03.cs.ucla.edu:8000/.
 
-<video width="1162" height="926" controls>
-  <source src="assets/MetaDrive_Racing_Tournament_Tutorial.mp4" type="video/mp4">
-</video>
+<video src="assets/MetaDrive_Racing_Tournament_Tutorial.mp4" width="1162" height="926" controls></video>
 
 ## **5 What You Need to Submit**
 
